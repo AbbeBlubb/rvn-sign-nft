@@ -74,3 +74,9 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+/* CSS for project */
+
+body {
+  background: linear-gradient(110deg, #fdcd3b 50%, #ffed4b 50%);
+}
